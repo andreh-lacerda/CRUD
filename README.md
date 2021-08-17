@@ -1,27 +1,14 @@
 # Productsapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+Estudo de CRUD através das aulas da Udemy, utilizando Angular 12.1.1, Node 14.17.3 e MongoDB Community.
 
-## Development server
+## Instalação
+Após ter instalado o Angular, Node e MongoDB, e baixado o CRUD na máquina, instale as dependêcias com npm i.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Rodar App
+Dentro da pasta server, abra o terminal e digite: node app
+Abra outro terminal e dentro da pasta productsapp digite: ng serve
 
-## Code scaffolding
+Agora basta abrir o navegador e digitar: http://localhost:4200
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
